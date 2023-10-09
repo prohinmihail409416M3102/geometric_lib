@@ -26,7 +26,7 @@ S = area(4, 3) #S = 6
 P = perimeter(4, 3, 5) #P = 12
 ~~~
 
-### ◻ Квадрат - square.ру
+### ❒ Квадрат - square.ру
 
 area(side length **a**) = **a^2^**
 perimeter(side length A) = **4a**
@@ -36,7 +36,7 @@ S = area(5) #S = 25
 P = perimeter(5) #P = 20
 ~~~
 
-### 𐤏 Круг - circle.ру
+### ◯ Круг - circle.ру
 
 area(radius R) = **πR^2^**
 perimeter(radius R) = **2πR**
